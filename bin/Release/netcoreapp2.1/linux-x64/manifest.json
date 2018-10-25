@@ -1,0 +1,6 @@
+{
+  "runtime":{
+     "majorVersion":"2.1.403-runtime"
+	},
+	"command": "dotnet publish/GmailFtpTranferApi.dll"
+} 

@@ -1,0 +1,16 @@
+#FROM microsoft/dotnet:2.1-sdk-runtime-deps AS build-env
+FROM microsoft/dotnet:sdk
+
+MAINTAINER Brian Bennett using image from Justin Blau <brian.bennett@oracle.com>
+
+WORKDIR /app
+
+COPY . .
+
+Copy ./GmailFtpTranferApi.csproj .
+
+RUN dotnet  build 
+
+EXPOSE 5000/tcp
+
+ENTRYPOINT ["dotnet" , "GmailFtpTranferApi.dll"]

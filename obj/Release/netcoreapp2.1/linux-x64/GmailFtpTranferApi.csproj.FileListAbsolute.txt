@@ -1,0 +1,17 @@
+/Users/llbennet/Desktop/GmailFtpTranferApi/bin/Release/netcoreapp2.1/linux-x64/libhostpolicy.so
+/Users/llbennet/Desktop/GmailFtpTranferApi/bin/Release/netcoreapp2.1/linux-x64/libhostfxr.so
+/Users/llbennet/Desktop/GmailFtpTranferApi/bin/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi
+/Users/llbennet/Desktop/GmailFtpTranferApi/bin/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.deps.json
+/Users/llbennet/Desktop/GmailFtpTranferApi/bin/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.runtimeconfig.json
+/Users/llbennet/Desktop/GmailFtpTranferApi/bin/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.runtimeconfig.dev.json
+/Users/llbennet/Desktop/GmailFtpTranferApi/bin/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.dll
+/Users/llbennet/Desktop/GmailFtpTranferApi/bin/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.pdb
+/Users/llbennet/Desktop/GmailFtpTranferApi/obj/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.csprojAssemblyReference.cache
+/Users/llbennet/Desktop/GmailFtpTranferApi/obj/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.csproj.CoreCompileInputs.cache
+/Users/llbennet/Desktop/GmailFtpTranferApi/obj/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.RazorAssemblyInfo.cache
+/Users/llbennet/Desktop/GmailFtpTranferApi/obj/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.RazorAssemblyInfo.cs
+/Users/llbennet/Desktop/GmailFtpTranferApi/obj/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.AssemblyInfoInputs.cache
+/Users/llbennet/Desktop/GmailFtpTranferApi/obj/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.AssemblyInfo.cs
+/Users/llbennet/Desktop/GmailFtpTranferApi/obj/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.RazorTargetAssemblyInfo.cache
+/Users/llbennet/Desktop/GmailFtpTranferApi/obj/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.dll
+/Users/llbennet/Desktop/GmailFtpTranferApi/obj/Release/netcoreapp2.1/linux-x64/GmailFtpTranferApi.pdb
